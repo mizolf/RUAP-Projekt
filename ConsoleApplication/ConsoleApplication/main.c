@@ -6,7 +6,6 @@
 int main()
 {
 	printf("Pozdrav iz aplikacije od Mislav Češnik");
-	printf("Broj indeksa: 03278423");
 	return 0;
 }
 
